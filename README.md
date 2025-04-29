@@ -2,7 +2,7 @@
 
 Esse programa simula a movimentação das peças de xadrez no tabuleiro
 
-Ápós a execulção, será descrito no terminal a instrução do movimento que a peça irá executar, 
+Após a execulção, será descrito no terminal a instrução do movimento que a peça irá executar, 
 sendo:
 - Bispo: 5 casas diagonal direita para cima;
 - Torre: 5 casas direita;
